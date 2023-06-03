@@ -190,22 +190,6 @@ body {
   background-position: center;
   animation: animateBg 5s linear infinite;
 }
-.background-20 {
-  width: 100%;
-  height: 100vh;
-  background: url('/images/20.webp') no-repeat;
-  background-size: cover;
-  background-position: center;
-  animation: animateBg 5s linear infinite;
-}
-.background-21 {
-  width: 100%;
-  height: 100vh;
-  background: url('/images/21.webp') no-repeat;
-  background-size: cover;
-  background-position: center;
-  animation: animateBg 5s linear infinite;
-}
 
 .form-anime__inner {
   height: 100vh;
