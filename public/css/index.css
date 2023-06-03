@@ -26,7 +26,7 @@ body {
 .form-anime {
   width: 100%;
   height: 100vh;
-  background: url('/images/bg.jpg') no-repeat;
+  background: url('/images/1.webp') no-repeat;
   background-size: cover;
   background-position: center;
   animation: animateBg 5s linear infinite;
@@ -35,7 +35,7 @@ body {
 .background-1 {
   width: 100%;
   height: 100vh;
-  background: url('/images/abstractbg2.jpg') no-repeat;
+  background: url('/images/2.webp') no-repeat;
   background-size: cover;
   background-position: center;
   animation: animateBg 5s linear infinite;
@@ -44,7 +44,7 @@ body {
 .background-2 {
   width: 100%;
   height: 100vh;
-  background: url('/images/abstractbg3.jpg') no-repeat;
+  background: url('/images/3.webp') no-repeat;
   background-size: cover;
   background-position: center;
   animation: animateBg 5s linear infinite;
@@ -53,7 +53,7 @@ body {
 .background-3 {
   width: 100%;
   height: 100vh;
-  background: url('/images/abstractbg5.jpeg') no-repeat;
+  background: url('/images/4.webp') no-repeat;
   background-size: cover;
   background-position: center;
   animation: animateBg 5s linear infinite;
@@ -62,7 +62,176 @@ body {
 .background-4 {
   width: 100%;
   height: 100vh;
-  background: url('/images/neonbg.jpg') no-repeat;
+  background: url('/images/5.webp') no-repeat;
+  background-size: cover;
+  background-position: center;
+  animation: animateBg 5s linear infinite;
+}
+
+.background-5 {
+  width: 100%;
+  height: 100vh;
+  background: url('/images/6.webp') no-repeat;
+  background-size: cover;
+  background-position: center;
+  animation: animateBg 5s linear infinite;
+}
+.background-6 {
+  width: 100%;
+  height: 100vh;
+  background: url('/images/7.webp') no-repeat;
+  background-size: cover;
+  background-position: center;
+  animation: animateBg 5s linear infinite;
+}
+.background-7 {
+  width: 100%;
+  height: 100vh;
+  background: url('/images/8.webp') no-repeat;
+  background-size: cover;
+  background-position: center;
+  animation: animateBg 5s linear infinite;
+}
+.background-8 {
+  width: 100%;
+  height: 100vh;
+  background: url('/images/9.webp') no-repeat;
+  background-size: cover;
+  background-position: center;
+  animation: animateBg 5s linear infinite;
+}
+.background-9 {
+  width: 100%;
+  height: 100vh;
+  background: url('/images/10.webp') no-repeat;
+  background-size: cover;
+  background-position: center;
+  animation: animateBg 5s linear infinite;
+}
+.background-10 {
+  width: 100%;
+  height: 100vh;
+  background: url('/images/11.webp') no-repeat;
+  background-size: cover;
+  background-position: center;
+  animation: animateBg 5s linear infinite;
+}
+.background-11 {
+  width: 100%;
+  height: 100vh;
+  background: url('/images/12.webp') no-repeat;
+  background-size: cover;
+  background-position: center;
+  animation: animateBg 5s linear infinite;
+}
+.background-12 {
+  width: 100%;
+  height: 100vh;
+  background: url('/images/13.webp') no-repeat;
+  background-size: cover;
+  background-position: center;
+  animation: animateBg 5s linear infinite;
+}
+.background-13 {
+  width: 100%;
+  height: 100vh;
+  background: url('/images/14.webp') no-repeat;
+  background-size: cover;
+  background-position: center;
+  animation: animateBg 5s linear infinite;
+}
+.background-14 {
+  width: 100%;
+  height: 100vh;
+  background: url('/images/15.webp') no-repeat;
+  background-size: cover;
+  background-position: center;
+  animation: animateBg 5s linear infinite;
+}
+.background-15 {
+  width: 100%;
+  height: 100vh;
+  background: url('/images/16.webp') no-repeat;
+  background-size: cover;
+  background-position: center;
+  animation: animateBg 5s linear infinite;
+}
+.background-16 {
+  width: 100%;
+  height: 100vh;
+  background: url('/images/17.webp') no-repeat;
+  background-size: cover;
+  background-position: center;
+  animation: animateBg 5s linear infinite;
+}
+.background-17 {
+  width: 100%;
+  height: 100vh;
+  background: url('/images/18.webp') no-repeat;
+  background-size: cover;
+  background-position: center;
+  animation: animateBg 5s linear infinite;
+}
+.background-18 {
+  width: 100%;
+  height: 100vh;
+  background: url('/images/19.webp') no-repeat;
+  background-size: cover;
+  background-position: center;
+  animation: animateBg 5s linear infinite;
+}
+.background-19 {
+  width: 100%;
+  height: 100vh;
+  background: url('/images/20.webp') no-repeat;
+  background-size: cover;
+  background-position: center;
+  animation: animateBg 5s linear infinite;
+}
+.background-20 {
+  width: 100%;
+  height: 100vh;
+  background: url('/images/21.webp') no-repeat;
+  background-size: cover;
+  background-position: center;
+  animation: animateBg 5s linear infinite;
+}
+.background-21 {
+  width: 100%;
+  height: 100vh;
+  background: url('/images/22.webp') no-repeat;
+  background-size: cover;
+  background-position: center;
+  animation: animateBg 5s linear infinite;
+}
+.background-22 {
+  width: 100%;
+  height: 100vh;
+  background: url('/images/23.webp') no-repeat;
+  background-size: cover;
+  background-position: center;
+  animation: animateBg 5s linear infinite;
+}
+.background-23 {
+  width: 100%;
+  height: 100vh;
+  background: url('/images/24.webp') no-repeat;
+  background-size: cover;
+  background-position: center;
+  animation: animateBg 5s linear infinite;
+}
+.background-24 {
+  width: 100%;
+  height: 100vh;
+  background: url('/images/25.webp') no-repeat;
+  background-size: cover;
+  background-position: center;
+  animation: animateBg 5s linear infinite;
+}
+.background-25 {
+  width: 100%;
+  height: 100vh;
+  background: url('/images/26.webp') no-repeat;
   background-size: cover;
   background-position: center;
   animation: animateBg 5s linear infinite;
@@ -89,7 +258,7 @@ body {
   background-color: transparent;
   border: 2px solid var(--color-red);
   border-radius: 25px;
-  background-image: url('/images/bg-btn.jpeg');
+  background-image: url('/images/bg-btn.webp');
   background-size: 200% 100%;
   background-position: 100% 50%;
   transition: background-position 0.5s ease-in-out, box-shadow 0.4s ease-in-out;
@@ -105,49 +274,6 @@ body {
   background-position: 0% 50%;
   box-shadow: 0px 0px 25px var(--color-red), 0px 0px 15px var(--color-red);
 }
-
-.print-wrapper {
-  position: absolute;
-  left: 40px;
-  font-family: "Major Mono Display", monospace;
-  margin-top: 5%;
-  color: red;
-  font-weight: bold;
-  cursor: pointer;
-}
-
-.line {
-  white-space: nowrap; /* keep text in one line */
-  overflow: hidden; /* hide text behind the cursor */
-  margin: 0.5rem auto;
-  font-family: "Major Mono Display", monospace;
-  font-size: 2rem;
-  font-weight: bold;
-  opacity: 0;
-}
-
-.line:first-child {
-  animation-delay: 0s;
-}
-
-.line:last-child {
-  animation-delay: 3s;
-}
-
-@keyframes animated-text {
-  0% {
-    width: 0;
-    opacity: 1;
-  }
-  100% {
-    width: 100%;
-    opacity: 1;
-  }
-}
-
-
-
-
 
 /* Bounce In */
 .hvr-bounce-in {
@@ -182,7 +308,8 @@ body {
 }
 
 .login-box:hover {
-  box-shadow: 0px 0px 28px #0ff;
+  box-shadow: 0px 0px 24px #0ff, 0px 0px 24px #0ff;
+  cursor: pointer;
 }
 
 h2 {
@@ -468,7 +595,7 @@ h2 {
 
 .login-box {
   opacity: 0;
-  animation: fadeIn 2s ease-in-out forwards;
+  animation: fadeIn 3s ease-in-out forwards;
 }
 
 @keyframes fadeIn {
