@@ -24,9 +24,6 @@ const backgrounds =
   "background-21",
   "background-22",
   "background-23",
-  "background-24",
-  "background-25",
-  "background-26",
 ];
 let currentIndex = -1;
 
